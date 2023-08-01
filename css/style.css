@@ -210,7 +210,6 @@ nav .iconNav:hover span:nth-child(2) {
 @media (max-width: 767px) {
   .landing .container .images img {
     width: 300px;
-    filter: drop-shadow(2px 4px 6px black);
   }
 
   .landing .container .textLand {
